@@ -1,0 +1,6 @@
+projectKey=Jest-SonarCube
+serverUrl=https://legendary-goldfish-g9v7wrr6rj529j9w-9000.app.github.dev
+serverVersion=10.7.0.96327
+dashboardUrl=https://legendary-goldfish-g9v7wrr6rj529j9w-9000.app.github.dev/dashboard?id=Jest-SonarCube
+ceTaskId=3acf2f3e-c549-42d5-b618-28d99b10a188
+ceTaskUrl=https://legendary-goldfish-g9v7wrr6rj529j9w-9000.app.github.dev/api/ce/task?id=3acf2f3e-c549-42d5-b618-28d99b10a188
